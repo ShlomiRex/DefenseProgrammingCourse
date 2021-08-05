@@ -1,0 +1,1 @@
+g++ -m32 -g3 -fno-stack-protector -std=c++11 mmn12-q2.cpp -o a.out
